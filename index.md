@@ -28,9 +28,17 @@ title: Home
 </table>
 
 <br />
-I am a postdoc fellow at the [School of Engineering and Applied Sciences](http://www.seas.harvard.edu/), [Harvard University](http://www.harvard.edu). Before joining Harvard, I received my Ph.D. and M.S. from [Center for Ultra-Wide-Area Resilient Electric Energy Transmission Networks](http://curent.utk.edu), [The University of Tennessee Knoxville](http://www.utk.edu), and my B.S from [Chien-Shiung Wu College](https://en.wikipedia.org/wiki/Chien-Shiung Wu College), [Southeast University](http://www.seu.edu.cn/english/main.htm) in China. 
+Dr. Chien-fei Chen serves as the Director of Education and Diversity Programs and Research Professor for CURENT. She is also an adjunct faculty member 
+in the department of sociology. Dr. Chen received her Ph.D. in Sociology from Washington State University.
 
-My research focuses are Social Psychology, Environmental Sociology, Quantitative Research Methods, Interdisciplinary Research on Energy Behaviors, and Engineering Education.
+Her research in social psychology focuses on how the content and structure of social relations are mediated through social norms, networks, interpersonal
+communication and related psychological factors at both individual and group levels. Dr. Chen’s work is especially concerned with the mechanism, transmission
+and enforcement of social norms; and emphasizes the roles that social networks, norms and psychological factors have in the influencing of individual 
+decision-making. Her research facilitates the investigation of the social and structural processes that motivate behavioral and psychological changes
+in relation to issues of energy and technology.
+
+More specifically, her research focuses are Social Psychology, Environmental Sociology, Quantitative Research Methods, Interdisciplinary Research on Energy
+ Behaviors, and Engineering Education.
 
 <br />
 <br />
@@ -38,6 +46,3 @@ My research focuses are Social Psychology, Environmental Sociology, Quantitative
 {:.center}
 ### LATEST NEWS ###
 
-+ 10/2016, Our paper "A Framework of Residential Demand Aggregation with Financial Incentives" was accepted to *IEEE Transactions on Smart Grid*.
-
-+ 10/2016, I presented our work "A mechanism for Incentive based Demand Reponse Programs" at attended NSF Workshop *RCN-SEES-SHBE* at [Center for Ultra-Wide-Area Resilient Electric Energy Transmission Networks](http://curent.utk.edu).

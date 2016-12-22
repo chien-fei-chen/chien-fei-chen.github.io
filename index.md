@@ -19,7 +19,7 @@ title: Home
     University of Tennessee, Knoxville<br>
     <br>
     <i class="fa fa-envelope fa-fw"></i><a href= "mailto:cchen26@utk.edu" > cchen26@ukt.edu</a><br>
-    <i class="fa fa-file-text fa-fw"></i> vita, <a href= "/assets/lib/Chien-fei_Chen_CV_10_20_16.pdf" > pdf </a><br>   
+    <i class="fa fa-file-text fa-fw"></i> Curriculum Vitae, <a href= "/assets/lib/Chien-fei_Chen_CV_10_20_16.pdf" > pdf </a><br>   
 </td>
 <td align="right">
     <img src="assets/img/Chien-fei-Chen.png" alt="Dr. Chen's Portrait" style="width:120px;height:160px;">

@@ -28,8 +28,8 @@ title: Home
 </table>
 
 <br />
-Dr. Chien-fei Chen serves as the Director of Education and Diversity Programs and Research Professor for CURENT. She is also an adjunct faculty member 
-in the department of sociology. Dr. Chen received her Ph.D. in Sociology from Washington State University.
+Dr. Chien-fei Chen serves as the Director of Education and Diversity Programs and Research Professor for [CURENT](http://curent.utk.edu). She is also an adjunct faculty member 
+in the department of sociology. Dr. Chen received her Ph.D. in Sociology from [Washington State University](https://wsu.edu).
 
 Her research in social psychology focuses on how the content and structure of social relations are mediated through social norms, networks, interpersonal
 communication and related psychological factors at both individual and group levels. Dr. Chen’s work is especially concerned with the mechanism, transmission
@@ -46,3 +46,10 @@ More specifically, her research focuses are Social Psychology, Environmental Soc
 {:.center}
 ### LATEST NEWS ###
 
+**Journal Publications Under Revision or Review**
+
+[1] Chen, C.-F.,  Xu, X.,  & Day, J. (Accept with revision). Comfort needs or money saving?: Exploring determinants of low-income households’ intention to conserve energy. *Energy Research and Social Science*.
+
+[2] Xu, X., Maki, A., Chen, C.-F. Dong, B., & Day, J. (Accept with revision). Predicting workplace energy-saving intentions and communication: An application of the attitude-behavior-condition model. Special issue on Energy Consumption in Buildings: interdisciplinary approaches. *Energy Research and Social Science*. 
+
+[3] Cooksey, C., Brandi Upton, B., & Chen, C-F. (Accept with revision). Incorporating energy-efficient technologies throughout the life cycle of buildings:  Strategies for overcoming barriers. *Energy Research and Social Science*.

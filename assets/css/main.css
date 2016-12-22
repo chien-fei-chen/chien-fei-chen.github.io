@@ -1,0 +1,286 @@
+/* Basic */
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+{
+    margin: 0;
+    padding: 0;
+    margin-bottom: 0.75em;
+    color: #58595B;
+}
+
+h1 {
+    font-size: 2em;
+}
+
+h2 {
+    font-size: 1.5em;
+}
+
+h3 {
+    font-size: 1.25em;
+}
+
+h4 {
+    font-size: 1em;
+}
+
+h5 {
+    font-size: 0.8em;
+}
+
+h6 {
+    font-size: 0.7em;
+}
+
+body {
+    font-family: -apple-system, Helvetica, Arial, sans-serif;
+    font-size: 1em;
+    color: #58595B;
+    background-color: white;
+    line-height: 150%;
+    margin: 1em 1em 1em 1em;
+}
+
+body.is-loading * {
+    -moz-transition: none !important;
+    -webkit-transition: none !important;
+    -ms-transition: none !important;
+    transition: none !important;
+    -moz-animation: none !important;
+    -webkit-animation: none !important;
+    -ms-animation: none !important;
+    animation: none !important;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+    border-bottom: dotted 1px rgba(128, 128, 128, 0.5);
+    -moz-transition: color 0.3s ease-in-out, border-bottom-color 0.3s ease-in-out;
+    -webkit-transition: color 0.3s ease-in-out, border-bottom-color 0.3s ease-in-out;
+    -ms-transition: color 0.3s ease-in-out, border-bottom-color 0.3s ease-in-out;
+    transition: color 0.3s ease-in-out, border-bottom-color 0.3s ease-in-out;
+    outline: 0;
+}
+
+a:hover {
+    color: #0077ef;
+    border-bottom-color: rgba(255, 255, 255, 0);
+}
+
+.center {
+    text-align: center;
+    margin: 0 auto;
+}
+
+hr {
+    margin: 0 0 1em;
+    border: 0;
+    border-bottom: 1px solid rgb(255, 255, 255);
+}
+
+footer {
+    margin: 2em 0 0 0;
+}
+
+@media screen and (min-width: 1024px) {
+    body {
+        width: 960px;
+        margin: 10px auto;
+    }
+}
+
+
+/* Image */
+
+.image {
+    display: inline-block;
+    border: 0;
+}
+
+.image img {
+    display: block;
+    width: 100%;
+}
+
+
+/* Header */
+
+#header {
+    position: fixed;
+    width: 200px;
+    color: #58595B;
+    background: white;
+    text-align: center;
+}
+
+#logo {
+    margin: 2em 0em 1em 0em;
+}
+
+#time {
+    position: relative;
+    margin: 2em 0em 2em 0em;
+    font-size: 0.8em;
+    background: white;
+}
+
+#nav {
+    position: relative;
+    line-height: 120%;
+    font-size: 1.1em;
+    text-align: left;
+    background: #f6f6f6;
+    padding: 1.2em 0em 1.2em 1em;
+}
+
+
+/* Footer */
+
+#footer {
+    margin-left: 20%;
+    text-align: center;
+    background-color: #fff;
+    padding: 3em 0 4em 0;
+    box-shadow: inset 0 1px 0 0 rgba(0, 0, 0, 0.05), inset 0 0.1em 0.1em 0 rgba(0, 0, 0, 0.025);
+}
+
+
+/* Main */
+
+#main {
+    margin-left: 20%;
+    padding: 2em 2.5em 2em 2.5em;
+}
+
+
+/* Narrower */
+
+#headerToggle {
+    display: none;
+}
+
+@media screen and (max-width: 960px) {
+    /* Basic */
+    html,
+    body {
+        overflow-x: hidden;
+    }
+    /* Header */
+    #header {
+        -moz-backface-visibility: hidden;
+        -webkit-backface-visibility: hidden;
+        -ms-backface-visibility: hidden;
+        backface-visibility: hidden;
+        -moz-transform: translateX(-200px);
+        -webkit-transform: translateX(-200px);
+        -ms-transform: translateX(-200px);
+        transform: translateX(-200px);
+        -moz-transition: -moz-transform 0.5s ease;
+        -webkit-transition: -webkit-transform 0.5s ease;
+        -ms-transition: -ms-transform 0.5s ease;
+        transition: transform 0.5s ease;
+        display: block;
+        left: 0;
+        top: 0;
+        overflow-y: auto;
+        position: fixed;
+        width: 200px;
+    }
+    #headerToggle {
+        position: fixed;
+        -moz-backface-visibility: hidden;
+        -webkit-backface-visibility: hidden;
+        -ms-backface-visibility: hidden;
+        backface-visibility: hidden;
+        -moz-transition: -moz-transform 0.5s ease;
+        -webkit-transition: -webkit-transform 0.5s ease;
+        -ms-transition: -ms-transform 0.5s ease;
+        transition: transform 0.5s ease;
+        display: inline;
+        height: 1.5em;
+        width: 2em;
+        left: 0;
+        top: 0;
+    }
+    #headerToggle .toggle {
+        position: absolute;
+        float: left;
+        left: 0;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        outline: 0;
+        border: 0;
+    }
+    #headerToggle .toggle:before {
+        float: left;
+        font-family: FontAwesome;
+        text-decoration: none;
+        font-style: normal;
+        font-weight: normal;
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+        content: "\f0c9";
+        color: #fff;
+        font-size: 16px;
+        background: rgba(49, 49, 49, 0.5);
+        border-radius: 0.35em;
+        text-align: center;
+        position: absolute;
+        top: 0.5em;
+        left: 0.5em;
+        width: 2em;
+        height: 1.5em;
+    }
+    body.header-visible #main {
+        -moz-transform: translateX(200px);
+        -webkit-transform: translateX(200px);
+        -ms-transform: translateX(200px);
+        transform: translateX(200px);
+    }
+    body.header-visible #headerToggle {
+        -moz-transform: translateX(200px);
+        -webkit-transform: translateX(200px);
+        -ms-transform: translateX(200px);
+        transform: translateX(200px);
+    }
+    body.header-visible #header {
+        -moz-transform: translateX(0);
+        -webkit-transform: translateX(0);
+        -ms-transform: translateX(0);
+        transform: translateX(0);
+    }
+    /* Main */
+    #main {
+        -moz-backface-visibility: hidden;
+        -webkit-backface-visibility: hidden;
+        -ms-backface-visibility: hidden;
+        backface-visibility: hidden;
+        -moz-transition: -moz-transform 0.5s ease;
+        -webkit-transition: -webkit-transform 0.5s ease;
+        -ms-transition: -ms-transform 0.5s ease;
+        transition: transform 0.5s ease;
+        margin-left: 0em;
+        padding: 1em 0em 0em 0em;
+    }
+    /* footer */
+    #footer {
+        -moz-backface-visibility: hidden;
+        -webkit-backface-visibility: hidden;
+        -ms-backface-visibility: hidden;
+        backface-visibility: hidden;
+        -moz-transition: -moz-transform 0.5s ease;
+        -webkit-transition: -webkit-transform 0.5s ease;
+        -ms-transition: -ms-transform 0.5s ease;
+        transition: transform 0.5s ease;
+        padding-bottom: 1px;
+        margin-left: 0;
+    }
+}

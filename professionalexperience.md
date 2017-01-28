@@ -7,8 +7,7 @@ title: Teaching
 ## **Service** ##
 
 + Lead for Sustainability Education Program for the NSF RCN-SEES: Predictive Modeling Network for Sustainable Human-Building Ecosystems (SHBE)  
-+ NSF RCN Workshop Chair for the  “Enhancing Interdisciplinary Education and Diversity” for Predictive Modeling Network for Sustainable Human-building Ecosystems (SHBE) funded by NSF Research Coordination Network (RCN) in Science, 
-Engineering and Education for Sustainability (SEES) program September 30th-October 1st, 2016 
++ NSF RCN Workshop Chair for the  “Enhancing Interdisciplinary Education and Diversity” for Predictive Modeling Network for Sustainable Human-building Ecosystems (SHBE) funded by NSF Research Coordination Network (RCN) in Science, Engineering and Education for Sustainability (SEES) program September 30th-October 1st, 2016 
 + Lead of Social-psychological Modeling Task for the International Energy Agency (IEA), Energy in Buildings and Communities (EBC) Annex 66: Definition and Simulation of Occupant Behavior in Buildings 
 + Committee member of the interdisciplinary research task of occupant behavior model for the American Society of Heating and Air-Conditioning Engineers (ASHRAE). 
 + NSF reverse site visit reviewer for the Partnership International Research and Education (PIRE) Program 
@@ -45,6 +44,7 @@ Engineering and Education for Sustainability (SEES) program September 30th-Octob
   2. Taylor Woodward (industry engineering) and Diane Garcia (electrical engineering): Public acceptance of smart home management system (Spring 2016).  
   3. Adam Foshie (electrical engineering): Data acquisition and analysis for residential probabilistic demand response modeling (May-August, 2016).  
   4. Faiza Islam (industry engineering): Social-psychological factors and residential demand response programs. 
+
 ## **Peer Reviewer** ##
 
 *American Sociology Association, Energy Research and Social Science, Energy and Buildings, Energy and Environment, Journal of American Sociology, National Communication Association and International Communication Association*

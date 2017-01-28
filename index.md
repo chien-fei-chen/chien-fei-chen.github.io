@@ -19,7 +19,7 @@ title: Home
     University of Tennessee, Knoxville<br>
     <br>
     <i class="fa fa-envelope fa-fw"></i><a href= "mailto:cchen26@utk.edu" > cchen26@ukt.edu</a><br>
-    <i class="fa fa-file-text fa-fw"></i> Curriculum Vitae, <a href= "/assets/lib/Chien-fei_Chen_CV_10_20_16.pdf" > pdf </a><br>   
+    <i class="fa fa-file-text fa-fw"></i> Curriculum Vitae, <a href= "/assets/lib/Chien-fei_Chen_CV_1_23_2017.pdf" > pdf </a><br>   
 </td>
 <td align="right">
     <img src="assets/img/Chien-fei-Chen.png" alt="Dr. Chen's Portrait" style="width:120px;height:160px;">
@@ -44,12 +44,3 @@ More specifically, her research focuses are Social Psychology, Environmental Soc
 <br />
 
 {:.center}
-### LATEST NEWS ###
-
-**Journal Publications Under Revision or Review**
-
-[1] Chen, C.-F.,  Xu, X.,  & Day, J. (Accept with revision). Comfort needs or money saving?: Exploring determinants of low-income households’ intention to conserve energy. *Energy Research and Social Science*.
-
-[2] Xu, X., Maki, A., Chen, C.-F. Dong, B., & Day, J. (Accept with revision). Predicting workplace energy-saving intentions and communication: An application of the attitude-behavior-condition model. Special issue on Energy Consumption in Buildings: interdisciplinary approaches. *Energy Research and Social Science*. 
-
-[3] Cooksey, C., Brandi Upton, B., & Chen, C-F. (Accept with revision). Incorporating energy-efficient technologies throughout the life cycle of buildings:  Strategies for overcoming barriers. *Energy Research and Social Science*.

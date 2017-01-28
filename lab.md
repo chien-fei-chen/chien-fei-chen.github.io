@@ -64,7 +64,7 @@ title: Lab Group
     include health and fitness and outdoor activities.
 </td>
 <td align="right">
-    <img src="assets/img/Islam.png" alt="Faiza Islam's portrait" >     
+    <img src="assets/img/Islam.png" alt="Faiza Islam's portrait" style="width:120px;height:180px;">     
 </td>
 </tr>
 </table>

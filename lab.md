@@ -12,10 +12,10 @@ title: Lab Group
 <table width="100%">
 <tr>
 <td align="left">
-    I am a social psychologist by training, and I am committed to promoting better decision-making for individuals, organizations, and societies. 
-    My specialties include survey and experiment design, data analytics, statistical modeling and estimation, etc. 
+    Xiaojing is a social psychologist by training, and is committed to promoting better decision-making for individuals, organizations, and societies. 
+    Her specialties include survey and experiment design, data analytics, statistical modeling and estimation, etc. 
 
-    I am a keen learner of new knowledge and skills and a firm believer in interdisciplinary collaboration. I have been involved in multiple projects 
+    She is a keen learner of new knowledge and skills and a firm believer in interdisciplinary collaboration. She has been involved in multiple projects 
     across psychology, communication, business, and electrical engineering. 
 </td>
 </tr>

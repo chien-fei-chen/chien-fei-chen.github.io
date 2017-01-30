@@ -34,7 +34,7 @@ title: Lab Group
     and she is also interested in pursuing her PhD in psychology. She started working for CURENT in the January of 2016.
 </td>
 <td align="right">
-    <img src="assets/img/Jacqueline.JPG" alt="Jacqueline Adam's portrait" style="width:120px;height:105px;">     
+    <img src="assets/img/Jacqueline.JPG" alt="Jacqueline Adam's portrait" style="width:140px;height:171px;">     
 </td>
 </tr>
 </table>
@@ -46,7 +46,7 @@ title: Lab Group
 <td align="left">
     Taylor Woodward is a current Junior at The University of Tennessee studying Industrial and Systems Engineering. She has been involved with CURENT since
      2015 working as both a student ambassador and undergraduate research assistant. Her research focuses on connecting social aspects and human factors to the 
-     technology of smart home energy management systems and demand response programs. Other interests include traveling,  psychology, and promoting women involvement in STEM.
+     technology of smart home energy management systems and demand response programs. Other interests include traveling, psychology, and promoting women involvement in STEM.
 </td>
 <td align="right">
     <img src="assets/img/Woodward.jpg" alt="Taylor Woodwards's portrait" style="width:120px;height:168px;">     
@@ -59,8 +59,8 @@ title: Lab Group
 <table width="100%">
 <tr>
 <td align="left">
-    Faiza Islam is a sophomore studying Industrial Engineering at The University of Tennessee. Sh is from Knoxville, TN and is so glad that she chose to attend UT. 
-    She is involved with the Society of Women Engineers and CURENT. Currently, she is working with Dr. Chen-fei Chen and helping her with her research. Faiza's interests 
+    Faiza Islam is a sophomore studying Industrial Engineering at The University of Tennessee. She is from Knoxville, TN and is so glad that she chose to attend UT. 
+    She is involved with the Society of Women Engineers and CURENT. Currently, she is working with Dr. Chen and helping her with her research. Faiza's interests 
     include health and fitness and outdoor activities.
 </td>
 <td align="right">

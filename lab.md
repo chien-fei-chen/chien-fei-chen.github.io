@@ -54,5 +54,18 @@ title: Lab Group
 </tr>
 </table>
 
-
+## Faiza Islam ##
+<i class="fa fa-file-text fa-fw"></i> Curriculum Vitae, <a href= "/assets/lib/Islam_CV.pdf" > pdf </a><br>
+<table width="100%">
+<tr>
+<td align="left">
+    Faiza Islam is a sophomore studying Industrial Engineering at The University of Tennessee. Sh is from Knoxville, TN and is so glad that she chose to attend UT. 
+    She is involved with the Society of Women Engineers and CURENT. Currently, she is working with Dr. Chen-fei Chen and helping her with her research. Faiza's interests 
+    include health and fitness and outdoor activities.
+</td>
+<td align="right">
+    <img src="assets/img/Islam.PNG" alt="Faiza Islam's portrait" style="width:120px;height:180px;">     
+</td>
+</tr>
+</table>
 {:.center}

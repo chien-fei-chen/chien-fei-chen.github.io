@@ -9,7 +9,8 @@ title: Research
 
 ### Overview and Goals ###
 
-CURENT’s social behavioral research applies social-psychology theories and approaches to facilitate engineering research on improving power grid stability, renewable energy penetration and energy efficiency. Goals include:
+CURENT’s social behavioral research applies social-psychology theories and approaches to facilitate engineering research on improving power grid stability, 
+renewable energy penetration and energy efficiency. Goals include:
 
 + Fostering interdisciplinary research from the areas of power systems, renewable energy, demand response (DR), occupant behaviors and social psychology.
 + Integrating social-psychological factors and decision-making processes into engineering modeling to better understand demand response, customer segmentation, and acceptance of renewable energy and smart home management systems. 

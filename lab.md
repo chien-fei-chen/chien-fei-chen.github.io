@@ -34,7 +34,7 @@ title: Lab Group
     and she is also interested in pursuing her PhD in psychology. She started working for CURENT in the January of 2016.
 </td>
 <td align="right">
-    <img src="assets/img/Jacqueline.JPG" alt="Jacqueline Adam's portrait" style="width:200px;height:190px;">     
+    <img src="assets/img/Jacqueline.JPG" alt="Jacqueline Adam's portrait" style="width:120px;height:105px;">     
 </td>
 </tr>
 </table>
@@ -49,7 +49,7 @@ title: Lab Group
      technology of smart home energy management systems and demand response programs. Other interests include traveling,  psychology, and promoting women involvement in STEM.
 </td>
 <td align="right">
-    <img src="assets/img/Woodward.jpg" alt="Taylor Woodwards's portrait" style="width:120px;height:180px;">     
+    <img src="assets/img/Woodward.jpg" alt="Taylor Woodwards's portrait" style="width:120px;height:168px;">     
 </td>
 </tr>
 </table>
@@ -64,7 +64,7 @@ title: Lab Group
     include health and fitness and outdoor activities.
 </td>
 <td align="right">
-    <img src="assets/img/Islam.PNG" alt="Faiza Islam's portrait" style="width:120px;height:180px;">     
+    <img src="assets/img/Islam.PNG" alt="Faiza Islam's portrait" style="width:120px;height:213px;">     
 </td>
 </tr>
 </table>

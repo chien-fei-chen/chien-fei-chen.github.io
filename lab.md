@@ -6,7 +6,7 @@ title: Lab Group
 # Dr. Chen's Lab Group #
 
 ## Primary Research Assistant ##
-<hr/>
+<hr>
 
 ### Xiaojing Xu ###
 

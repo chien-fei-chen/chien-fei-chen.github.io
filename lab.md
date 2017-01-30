@@ -10,8 +10,6 @@ title: Lab Group
 
 ### Xiaojing Xu ###
 
-<br />
-
 ## Undergraduate Research Assistants ##
 <hr>
 

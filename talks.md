@@ -2,7 +2,7 @@
 layout: page
 title: Talks
 ---
-# Dr. Chien-fei Chen's Talks #
+# Dr. Chen's Talks #
 
 **2016**
 
@@ -12,7 +12,7 @@ title: Talks
 
 + Exploring the Relationship between Social-psychological Factors and Residential Demand Response Programs. Presented for the Center of iNnovation and Synergy for Intelligent Home and living Technology (INSIGHT), Taiwan University (May 5th).
 
-	The Importance of Environmental Sociology and Survey Methodology to Occupant Behavior Research. Department of Building Science, Tsinghua University, China (May 18th).
++ The Importance of Environmental Sociology and Survey Methodology to Occupant Behavior Research. Department of Building Science, Tsinghua University, China (May 18th).
 
 **2015**
 

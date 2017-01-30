@@ -2,7 +2,7 @@
 layout: page
 title: Teaching
 ---
-# Dr. Chien-fei Chen's Professional Experience #
+# Dr. Chen's Professional Experience #
 
 ## **Service** ##
 

@@ -39,4 +39,20 @@ title: Lab Group
 </tr>
 </table>
 
+## Taylor Woodward ##
+<i class="fa fa-file-text fa-fw"></i> Curriculum Vitae, <a href= "/assets/lib/Woodward_CV.pdf" > pdf </a><br>
+<table width="100%">
+<tr>
+<td align="left">
+    Taylor Woodward is a current Junior at The University of Tennessee studying Industrial and Systems Engineering. She has been involved with CURENT since
+     2015 working as both a student ambassador and undergraduate research assistant. Her research focuses on connecting social aspects and human factors to the 
+     technology of smart home energy management systems and demand response programs. Other interests include traveling,  psychology, and promoting women involvement in STEM.
+</td>
+<td align="right">
+    <img src="assets/img/Woodward.jpg" alt="Taylor Woodwards's portrait" style="width:120px;height:180px;">     
+</td>
+</tr>
+</table>
+
+
 {:.center}

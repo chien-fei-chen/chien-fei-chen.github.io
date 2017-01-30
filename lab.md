@@ -6,16 +6,14 @@ title: Lab Group
 # Dr. Chen's Lab Group #
 
 ## Primary Research Assistant ##
-
----
+<hr>
 
 ### Xiaojing Xu ###
 
 <br />
 
 ## Undergraduate Research Assistants ##
-
----
+<hr>
 
 ### Alyssa Loveday ###
 <i class="fa fa-file-text fa-fw"></i> Curriculum Vitae, <a href= "/assets/lib/Loveday_Resume.pdf" > pdf </a><br>

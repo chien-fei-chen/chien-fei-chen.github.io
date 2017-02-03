@@ -5,10 +5,10 @@ title: Lab Group
 {:.center}
 # Dr. Chen's Lab Group #
 
-## Primary Research Assistant ##
+## Post-Doctoral Researcher ##
 <hr>
 
-### Xiaojing Xu ###
+### Xiaojing Xu Ph.D.###
 <table width="100%">
 <tr>
 <td align="left">

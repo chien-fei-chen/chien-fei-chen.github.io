@@ -3,7 +3,7 @@ layout: page
 title: Lab Group
 ---
 {:.center}
-# Dr. Chen's Lab Group #
+# Research Group #
 
 ## Post-Doctoral Researcher ##
 <hr>
@@ -17,6 +17,9 @@ title: Lab Group
 
     She is a keen learner of new knowledge and skills and a firm believer in interdisciplinary collaboration. She has been involved in multiple projects 
     across psychology, communication, business, and electrical engineering. 
+</td>
+<td align="right">
+    <img src="assets/img/Xiaojing.jpg" alt="Xiaojing Xu's portrait" style="width:150px;height:180px;">     
 </td>
 </tr>
 </table>
@@ -81,7 +84,7 @@ title: Lab Group
     include health and fitness and outdoor activities.
 </td>
 <td align="right">
-    <img src="assets/img/Islam.PNG" alt="Faiza Islam's portrait" style="width:120px;height:213px;">     
+    <img src="assets/img/Islam.PNG" alt="Faiza Islam's portrait" style="width:120px;height:191px;">     
 </td>
 </tr>
 </table>

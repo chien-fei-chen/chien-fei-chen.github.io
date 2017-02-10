@@ -3,7 +3,7 @@ layout: page
 title: Home
 ---
 {:.center}
-# **Dr. Chien-fei Chen** #
+# **Chien-fei Chen Ph.D.** #
 <br />
 
 <table width="100%">
@@ -18,8 +18,8 @@ title: Home
     Department of Sociology<br>
     University of Tennessee, Knoxville<br>
     <br>
-    <i class="fa fa-envelope fa-fw"></i><a href= "mailto:cchen26@utk.edu" > cchen26@ukt.edu</a><br>
-    <i class="fa fa-file-text fa-fw"></i> Curriculum Vitae, <a href= "/assets/lib/Chien-fei_Chen_CV_1_23_2017.pdf" > pdf </a><br>   
+    <i class="fa fa-envelope fa-fw"></i><a href= "mailto:cchen26@utk.edu" > cchen26@utk.edu</a><br>
+    <i class="fa fa-file-text fa-fw"></i> Curriculum Vitae, <a href= "/assets/lib/Chien-fei_Chen_CV.pdf" > pdf </a><br>   
 </td>
 <td align="right">
     <img src="assets/img/Chien-fei-Chen.png" alt="Dr. Chen's Portrait" style="width:120px;height:160px;">

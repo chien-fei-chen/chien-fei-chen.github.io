@@ -7,7 +7,7 @@ title: Home
 <br />
 
 {:.imgtable}
-| ------------ |--------------:| 
+
 |  **Director of Education and Diversity & Research Assistant Professor** <br>
     NSF-DOE Engineering Research Center, Center for Ultra-wide-area Resilient Electrical Energy Transmission Networks (CURENT)<br>
     Department of Electrical Engineering and Computer Science<br>

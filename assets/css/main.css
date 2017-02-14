@@ -140,6 +140,240 @@ footer {
     padding: 1.2em 0em 1.2em 1em;
 }
 
+table {
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+
+td {
+    padding: 2px;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+    text-align: center;
+    border: 1px solid gray;
+}
+
+table + table {
+    margin-top: 1em;
+}
+
+tr.heading {
+    font-weight: bold;
+    border-bottom: 2px solid black;
+}
+
+img {
+    border: none;
+}
+
+table.imgtable,
+table.imgtable td {
+    border: none;
+    width: 100%;
+    text-align: left;
+}
+
+table.imgtable img {
+    width: 120px;
+    height: 160px;
+}
+
+h1 tt,
+h1 code {
+    font-size: inherit;
+}
+
+h2 tt,
+h2 code {
+    font-size: inherit;
+}
+
+h3 tt,
+h3 code {
+    font-size: inherit;
+}
+
+dl {
+    padding: 0;
+}
+
+ul {
+    list-style-position: outside;
+    list-style-type: square;
+}
+
+li ul,
+li ol {
+    margin-top: -0.3em;
+}
+
+ol {
+    list-style-position: outside;
+    list-style-type: decimal;
+}
+
+dl dt {
+    font-weight: bold;
+    font-style: italic;
+    padding: 0;
+    margin: 1.2em 0 0.4em;
+}
+
+dl dt:first-child {
+    padding: 0;
+}
+
+dl dt >:first-child {
+    margin-top: 0;
+}
+
+dl dt >:last-child {
+    margin-bottom: 0;
+}
+
+dl dd >:first-child {
+    margin-top: 0;
+}
+
+dl dd >:last-child {
+    margin-bottom: 0;
+}
+
+blockquote {
+    border-left: 0.3em solid #dddddd;
+    padding: 0 1.3em;
+    color: #777777;
+}
+
+blockquote >:first-child {
+    margin-top: 0;
+}
+
+blockquote >:last-child {
+    margin-bottom: 0;
+}
+
+span.frame {
+    display: block;
+    overflow: hidden;
+}
+
+span.frame > span {
+    border: 1px solid #dddddd;
+    display: block;
+    float: left;
+    overflow: hidden;
+    margin: 1em 0 0;
+    padding: 0.6em;
+    width: auto;
+}
+
+span.frame span img {
+    display: block;
+    float: left;
+}
+
+span.frame span span {
+    clear: both;
+    color: #333333;
+    display: block;
+    padding: 0.4em 0 0;
+}
+
+span.align-center {
+    display: block;
+    overflow: hidden;
+    clear: both;
+}
+
+span.align-center > span {
+    display: block;
+    overflow: hidden;
+    margin: 1em auto 0;
+    text-align: center;
+}
+
+span.align-center span img {
+    margin: 0 auto;
+    text-align: center;
+}
+
+span.align-right {
+    display: block;
+    overflow: hidden;
+    clear: both;
+}
+
+span.align-right > span {
+    display: block;
+    overflow: hidden;
+    margin: 1em 0 0;
+    text-align: right;
+}
+
+span.align-right span img {
+    margin: 0;
+    text-align: right;
+}
+
+span.float-left {
+    display: block;
+    margin-right: 1em;
+    overflow: hidden;
+    float: left;
+}
+
+span.float-left span {
+    margin: 13px 0 0;
+}
+
+span.float-right {
+    display: block;
+    margin-left: 13px;
+    overflow: hidden;
+    float: right;
+}
+
+span.float-right > span {
+    display: block;
+    overflow: hidden;
+    margin: 1em auto 0;
+    text-align: right;
+}
+
+code,
+tt {
+    margin: 0 0.2em;
+    padding: 0 0.4em;
+    white-space: nowrap;
+    border: 1px solid #eaeaea;
+    background-color: #ffffee;
+    border-radius: 0.3em;
+}
+
+pre code {
+    margin: 0;
+    padding: 0;
+    white-space: pre;
+    border: none;
+    background: transparent;
+}
+
+pre {
+    background-color: #ffffee;
+    border: 1px solid #cccccc;
+    font-size: 1em;
+    line-height: 1.5em;
+    overflow: auto;
+    padding: 0.5em 0.8em;
+    border-radius: 3px;
+}
+
+pre code,
+pre tt {
+    background-color: transparent;
+    border: none;
+}
 
 /* Footer */
 

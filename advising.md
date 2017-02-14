@@ -4,6 +4,7 @@ title: Advising
 ---
 
 # **Advising Experience** ##
+<hr>
 
 + Post-doctoral researcher, serving as a major adviser Dr. Xiaojing Xu, research projects relating to energy conservation behaviors, public acceptance of renewable technology,  “Social Impact of Power Grip Technology and Energy Conservation Behaviors.” CURENT, UTK 
 

@@ -4,6 +4,7 @@ title: Professional Service
 ---
 
 ## **Service** ##
+<hr>
 
 + Lead for Sustainability Education Program for the NSF RCN-SEES: Predictive Modeling Network for Sustainable Human-Building Ecosystems (SHBE)  
 + NSF RCN Workshop Chair for the  “Enhancing Interdisciplinary Education and Diversity” for Predictive Modeling Network for Sustainable Human-building Ecosystems (SHBE) funded by NSF Research Coordination Network (RCN) in Science, Engineering and Education for Sustainability (SEES) program September 30th-October 1st, 2016 

@@ -3,8 +3,7 @@ layout: page
 title: Conferences
 ---
 # Conference Publications #
-
-### **Conference Publications** ###
+<hr>
 
 +  Roetzel, A., & Chen, C.-F (2016, December). Understanding qualitative and quantitative influences on occupant behavior in offices. International Conference of the Architectural Science Association, Adelaide. Australia. 
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Lab Group
+title: Research Group
 ---
 {:.center}
 # Research Group #

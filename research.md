@@ -3,6 +3,7 @@ layout: page
 title: Research
 ---
 # Research #
+<hr>
 
 ## Social Behavioral Analysis for Demand Response, Renewable Technology and Energy Efficiency ##
 <i class="fa fa-file-text fa-fw"></i> Fact Sheet, <a href= "/assets/lib/Chen Fact Sheet 07 2016 Social  Analysis.pdf"> pdf </a><br>

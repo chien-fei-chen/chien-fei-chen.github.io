@@ -8,7 +8,7 @@ title: Home
 
 {:.imgtable}
 | ------------ |--------------:| 
-|  <b>Director of Education and Diversity &amp; Research Assistant Professor</b><br>
+|  **Director of Education and Diversity & Research Assistant Professor** <br>
     NSF-DOE Engineering Research Center, Center for Ultra-wide-area Resilient Electrical Energy Transmission Networks (CURENT)<br>
     Department of Electrical Engineering and Computer Science<br>
     University of Tennessee, Knoxville<br>

@@ -6,9 +6,19 @@ title: Home
 # **Chien-fei Chen Ph.D.** #
 <br />
 
-{:.imgtable}
-| ------------ |--------------:| 
-| **Director of Education and Diversity & Research Assistant Professor** <br>NSF-DOE Engineering Research Center, Center for Ultra-wide-area Resilient Electrical Energy Transmission Networks (CURENT)<br>Department of Electrical Engineering and Computer Science<br>University of Tennessee, Knoxville<br><br /><b>Adjunct Research Assistant Professor</b><br>Department of Sociology<br>University of Tennessee, Knoxville<br><br><i class="fa fa-envelope fa-fw"></i><a href= "mailto:cchen26@utk.edu" > cchen26@utk.edu</a><br><i class="fa fa-file-text fa-fw"></i> Curriculum Vitae, <a href= "/assets/lib/Chien-fei_Chen_CV.pdf" > pdf </a><br> | ![Chien-fei's Pic](assets/img/Chien-fei-Chen.png)| 
+<table width="100%">
+<tr>
+<td align="left">
+    <b>Director of Education and Diversity & Research Assistant Professor</b> <br>NSF-DOE Engineering Research Center, Center for Ultra-wide-area Resilient Electrical Energy Transmission Networks (CURENT)<br>
+    Department of Electrical Engineering and Computer Science<br>University of Tennessee, Knoxville<br><br /><b>Adjunct Research Assistant Professor</b>
+    <br>Department of Sociology
+    <br>University of Tennessee, Knoxville
+    <br>
+    <br>
+    <i class="fa fa-envelope fa-fw"></i><a href= "mailto:cchen26@utk.edu" > cchen26@utk.edu</a><br><i class="fa fa-file-text fa-fw"></i> Curriculum Vitae, <a href= "/assets/lib/Chien-fei_Chen_CV.pdf" > pdf </a><br>
+<td align="right">
+    <img src="assets/img/Chien-fei-Chen.png" alt="Chien-fei's portrait" style="width:150px;height:180px;">     
+</td>
 
 
 <br />

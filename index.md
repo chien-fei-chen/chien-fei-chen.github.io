@@ -9,17 +9,22 @@ title: Home
 <table width="100%">
 <tr>
 <td align="left">
-    <b>Director of Education and Diversity & Research Assistant Professor</b> <br>NSF-DOE Engineering Research Center, Center for Ultra-wide-area Resilient Electrical Energy Transmission Networks (CURENT)<br>
-    Department of Electrical Engineering and Computer Science<br>University of Tennessee, Knoxville<br><br /><b>Adjunct Research Assistant Professor</b>
+    <b>Director of Education and Diversity & Research Assistant Professor</b> 
+    <br>NSF-DOE Engineering Research Center, Center for Ultra-wide-area Resilient Electrical Energy Transmission Networks (CURENT)
+    <br>Department of Electrical Engineering and Computer Science
+    <br>University of Tennessee, Knoxville<br><br />
+    <b>Adjunct Research Assistant Professor</b>
     <br>Department of Sociology
     <br>University of Tennessee, Knoxville
     <br>
     <br>
     <i class="fa fa-envelope fa-fw"></i><a href= "mailto:cchen26@utk.edu" > cchen26@utk.edu</a><br><i class="fa fa-file-text fa-fw"></i> Curriculum Vitae, <a href= "/assets/lib/Chien-fei_Chen_CV.pdf" > pdf </a><br>
+</td>
 <td align="right">
     <img src="assets/img/Chien-fei-Chen.png" alt="Chien-fei's portrait" style="width:150px;height:180px;">     
 </td>
-
+</tr>
+</table>
 
 <br />
 Dr. Chien-fei Chen serves as the Director of Education and Diversity Programs and Research Professor for [CURENT](http://curent.utk.edu). She is also an adjunct faculty member 

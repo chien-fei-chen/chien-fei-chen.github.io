@@ -39,6 +39,9 @@ title: Research Group
     surrounded by unfamiliar and culturally diverse areas. Upon graduation, She plans on working for the Americorps and then continuing her education towards 
     a PhD in Environmental Psychology.
 </td>
+<td align="right">
+    <img src="assets/img/Alyssa.jpg" alt="Alyssa Loveday's portrait" style="width:140px;height:154px;">     
+</td>
 </tr>
 </table>
 
@@ -85,6 +88,21 @@ title: Research Group
 </td>
 <td align="right">
     <img src="assets/img/Islam.PNG" alt="Faiza Islam's portrait" style="width:120px;height:191px;">     
+</td>
+</tr>
+</table>
+
+### Roy Tan ###
+<i class="fa fa-file-text fa-fw"></i> Curriculum Vitae, <a href= "/assets/lib/RoyTanResume.pdf" > pdf </a><br>
+<table width="100%">
+<tr>
+<td align="left">
+   Roy is currently a Freshman in the University of Tennessee at Knoxville studying Electrical Engineering while also being a part of the Chancellor’s Honors Program 
+   and the Engineering Honors program. He is from Nashville Tennessee, and his interests include practicing instruments and outdoor activities such as hiking. He also 
+   takes part in UTK’s IEEE Robotics team and ASME robotic and drone design team since his goal is a career in robotics. 
+</td>
+<td align="right">
+    <img src="assets/img/Roy.jpg" alt="Roy Tan's portrait" style="width:140px;height:163px;">     
 </td>
 </tr>
 </table>

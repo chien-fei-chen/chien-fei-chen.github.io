@@ -107,4 +107,18 @@ title: Research Group
 </td>
 </tr>
 </table>
+
+### Brian Lundell ###
+<i class="fa fa-file-text fa-fw"></i> Curriculum Vitae, <a href= "/assets/lib/Lundell_CV.pdf" > pdf </a><br>
+<table width="100%">
+<tr>
+<td align="left">
+   Brian is a freshman at the University of Tennessee Knoxville studying Electrical Engineering. Born and raised in Knoxville, he was indoctrinated into becoming a Vol For 
+   Life. His interests include cybersecurity and semiconductor design. He works with CURENT and the IEEE student chapter to further his interests outside of class.
+</td>
+<td align="right">
+    <img src="assets/img/Lundell.jpg" alt="Roy Tan's portrait" style="width:140px;height:164px;">     
+</td>
+</tr>
+</table>
 {:.center}

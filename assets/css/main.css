@@ -133,6 +133,7 @@ footer {
 
 #nav {
     position: relative;
+    overflow-y: scroll;
     line-height: 120%;
     font-size: 1.1em;
     text-align: left;

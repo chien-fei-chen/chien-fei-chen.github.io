@@ -135,8 +135,6 @@ footer {
     position: fixed;
     overflow-y: scroll;
     overflow: hidden;
-    
-    bottom: 0;
     line-height: 120%;
     font-size: 1.1em;
     text-align: left;

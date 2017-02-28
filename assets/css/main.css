@@ -132,7 +132,7 @@ footer {
 }
 
 #nav {
-    position: fixed;
+    position: relative;
     overflow-y: scroll;
     overflow: hidden;
     line-height: 120%;

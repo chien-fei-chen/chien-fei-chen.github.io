@@ -117,7 +117,7 @@ title: Research Group
    Life. His interests include cybersecurity and semiconductor design. He works with CURENT and the IEEE student chapter to further his interests outside of class.
 </td>
 <td align="right">
-    <img src="assets/img/Lundell.jpg" alt="Roy Tan's portrait" style="width:140px;height:164px;">     
+    <img src="assets/img/Lundell.JPG" alt="Brian Lundell's portrait" style="width:140px;height:164px;">     
 </td>
 </tr>
 </table>

@@ -121,7 +121,7 @@ img {
 
 #header {
     position: fixed;
-    width: 400px;
+    width: 200px;
     color: #58595B;
     background: white;
     text-align: center;
@@ -175,7 +175,7 @@ img {
     display: none;
 }
 
-@media screen and (max-width: 1000px) {
+@media screen and (max-width: 1080px) {
     /* Basic */
     html,
     body {

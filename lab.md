@@ -9,6 +9,9 @@ title: Research Group
 <hr>
 
 <div class="row researchers">
+  <div class="col-lg-3">
+    <img src="assets/img/Xiaojing.jpg" alt="Xiaojing Xu's portrait">
+  </div>
   <div class="col-lg-9">
     <h3>Xiaojing Xu, Ph.D.</h3>
     <p> Xiaojing is a social psychologist by training, and is committed to promoting better decision-making for individuals, organizations, and societies. 
@@ -17,9 +20,6 @@ title: Research Group
     She is a keen learner of new knowledge and skills and a firm believer in interdisciplinary collaboration. She has been involved in multiple projects 
     across psychology, communication, business, and electrical engineering.
 </p>
-  </div>
-  <div class="col-lg-3">
-    <img src="assets/img/Xiaojing.jpg" alt="Xiaojing Xu's portrait">
   </div>
 </div>
 

@@ -47,7 +47,7 @@ title: Research Group
 </td>
 </tr>
 </table>
-
+<br />
 
 <table width="100%">
 <tr>
@@ -66,6 +66,7 @@ title: Research Group
 </td>
 </tr>
 </table>
+<br />
 
 <table width="100%">
 <tr>
@@ -83,7 +84,7 @@ title: Research Group
 </td>
 </tr>
 </table>
-
+<br />
 
 <table width="100%">
 <tr>
@@ -100,7 +101,7 @@ title: Research Group
 </td>
 </tr>
 </table>
-
+<br />
 
 <table width="100%">
 <tr>
@@ -117,7 +118,7 @@ title: Research Group
 </td>
 </tr>
 </table>
-
+<br />
 
 <table width="100%">
 <tr>
@@ -133,4 +134,5 @@ title: Research Group
 </td>
 </tr>
 </table>
+<br />
 {:.center}

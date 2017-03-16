@@ -1,13 +1,6 @@
 /* Basic */
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
-p,
-{
+h1, h2, h3, h4, h5, h6, p {
     margin: 0;
     padding: 0;
     margin-bottom: 0.75em;
@@ -61,7 +54,7 @@ body.is-loading * {
 a {
     text-decoration: none;
     color: inherit;
-    border-bottom: dotted 1px rgba(128, 128, 128, 0.5);
+    border-bottom: dotted 1px #0077ef; /*rgba(128, 128, 128, 0.5);*/
     -moz-transition: color 0.3s ease-in-out, border-bottom-color 0.3s ease-in-out;
     -webkit-transition: color 0.3s ease-in-out, border-bottom-color 0.3s ease-in-out;
     -ms-transition: color 0.3s ease-in-out, border-bottom-color 0.3s ease-in-out;

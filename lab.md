@@ -4,7 +4,7 @@ title: Research Group
 ---
 {:.center}
 # Research Group #
-
+<br />
 ## Post-Doctoral Researcher ##
 <hr>
 

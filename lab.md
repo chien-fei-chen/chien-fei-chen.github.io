@@ -47,15 +47,15 @@ title: Research Group
 <i class="fa fa-file-text fa-fw"></i> Curriculum Vitae, <a href= "/assets/lib/Loveday_Resume.pdf" > pdf </a><br>
 <table width="100%">
 <tr>
-<td align="left">
+<td align="left" width="75%">
     Alyssa is a current senior at The University of Tennessee, Knoxville, double majoring in Psychology and Sustainability. 
     Since a young age, she has always found enjoyment in being outside and learning more about human cognition, so she is thankful for the opportunity 
     to apply her two passions towards an academic education. She has traveled outside of the country numerous times and find true excitement in being 
     surrounded by unfamiliar and culturally diverse areas. Upon graduation, She plans on working for the Americorps and then continuing her education towards 
     a PhD in Environmental Psychology.
 </td>
-<td align="right">
-    <img src="assets/img/Alyssa.jpg" alt="Alyssa Loveday's portrait" style="width:140px;height:154px;">     
+<td align="right" width="25%">
+    <img src="assets/img/Alyssa.jpg" alt="Alyssa Loveday's portrait"><!-- style="width:140px;height:154px;">     -->
 </td>
 </tr>
 </table>

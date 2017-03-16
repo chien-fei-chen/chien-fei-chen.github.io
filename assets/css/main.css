@@ -202,7 +202,7 @@ div.img {
         top: 0;
         overflow-y: auto;
         position: fixed;
-        width: 200px;
+        width: 400px;
     }
     #headerToggle {
         position: fixed;

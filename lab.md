@@ -28,11 +28,11 @@ title: Research Group
 ## Undergraduate Research Assistants ##
 <hr>
 
-### Alyssa Loveday ###
-<i class="fa fa-file-text fa-fw"></i> Curriculum Vitae, <a href= "/assets/lib/Loveday_Resume.pdf" > pdf </a><br>
 <table width="100%">
 <tr>
 <td align="left" width="75%" style="vertical-align:top">
+<h3>Alyssa Loveday</h3>
+<i class="fa fa-file-text fa-fw"></i> Curriculum Vitae, <a href= "/assets/lib/Loveday_Resume.pdf" > pdf </a><br>
     Alyssa is a current senior at The University of Tennessee, Knoxville, double majoring in Psychology and Sustainability. 
     Since a young age, she has always found enjoyment in being outside and learning more about human cognition, so she is thankful for the opportunity 
     to apply her two passions towards an academic education. She has traveled outside of the country numerous times and find true excitement in being 
@@ -78,11 +78,12 @@ title: Research Group
 </tr>
 </table>
 
-### Faiza Islam ###
-<i class="fa fa-file-text fa-fw"></i> Curriculum Vitae, <a href= "/assets/lib/Islam_CV.pdf" > pdf </a><br>
+
 <table width="100%">
 <tr>
 <td align="left" width="75%" style="vertical-align:top">
+<h3>Faiza Islam</h3>
+<i class="fa fa-file-text fa-fw"></i> Curriculum Vitae, <a href= "/assets/lib/Islam_CV.pdf" > pdf </a><br>
     Faiza is a sophomore studying Industrial Engineering at The University of Tennessee. She is from Knoxville, TN and is so glad that she chose to attend UT. 
     She is involved with the Society of Women Engineers and CURENT. Currently, she is working with Dr. Chen and helping her with her research. Faiza's interests 
     include health and fitness and outdoor activities.

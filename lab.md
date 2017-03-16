@@ -11,7 +11,7 @@ title: Research Group
 ### Xiaojing Xu Ph.D.###
 <table width="100%">
 <tr>
-<td align="left" width="75%">
+<td align="left" width="75%" style="vertical-align:top">
     Xiaojing is a social psychologist by training, and is committed to promoting better decision-making for individuals, organizations, and societies. 
     Her specialties include survey and experiment design, data analytics, statistical modeling and estimation, etc. 
 
@@ -32,7 +32,7 @@ title: Research Group
 <i class="fa fa-file-text fa-fw"></i> Curriculum Vitae, <a href= "/assets/lib/Loveday_Resume.pdf" > pdf </a><br>
 <table width="100%">
 <tr>
-<td align="left" width="75%">
+<td align="left" width="75%" style="vertical-align:top">
     Alyssa is a current senior at The University of Tennessee, Knoxville, double majoring in Psychology and Sustainability. 
     Since a young age, she has always found enjoyment in being outside and learning more about human cognition, so she is thankful for the opportunity 
     to apply her two passions towards an academic education. She has traveled outside of the country numerous times and find true excitement in being 
@@ -49,7 +49,7 @@ title: Research Group
 <i class="fa fa-file-text fa-fw"></i> Curriculum Vitae, <a href= "/assets/lib/Adams_CV.pdf" > pdf </a><br>
 <table width="100%">
 <tr>
-<td align="left" width="75%">
+<td align="left" width="75%" style="vertical-align:top">
     Jacqueline is a senior at the University of Tennessee majoring in Psychology and minoring in Political Science in the Chancellor’s 
     Honors Program. Her research interests lie in the intersection between her major and minor. She is currently writing a senior thesis on ambivalence 
     and voting intentions of US citizens in the 2016 presidential election. Additionally, she works in the Center for the Study of Youth in Political 
@@ -66,7 +66,7 @@ title: Research Group
 <i class="fa fa-file-text fa-fw"></i> Curriculum Vitae, <a href= "/assets/lib/Woodward_CV.pdf" > pdf </a><br>
 <table width="100%">
 <tr>
-<td align="left" width="75%">
+<td align="left" width="75%" style="vertical-align:top">
     Taylor is a current Junior at The University of Tennessee studying Industrial and Systems Engineering. She has been involved with CURENT since
      2015 working as both a student ambassador and undergraduate research assistant. Her research focuses on connecting social aspects and human factors to the 
      technology of smart home energy management systems and demand response programs. Other interests include traveling, psychology, and promoting women involvement 
@@ -97,7 +97,7 @@ title: Research Group
 <i class="fa fa-file-text fa-fw"></i> Curriculum Vitae, <a href= "/assets/lib/RoyTanResume.pdf" > pdf </a><br>
 <table width="100%">
 <tr>
-<td align="left" width="75%">
+<td align="left" width="75%" style="vertical-align:top">
    Roy is currently a Freshman in the University of Tennessee at Knoxville studying Electrical Engineering while also being a part of the Chancellor’s Honors Program 
    and the Engineering Honors program. He is from Nashville Tennessee, and his interests include practicing instruments and outdoor activities such as hiking. He also 
    takes part in UTK’s IEEE Robotics team and ASME robotic and drone design team since his goal is a career in robotics. 
@@ -112,7 +112,7 @@ title: Research Group
 <i class="fa fa-file-text fa-fw"></i> Curriculum Vitae, <a href= "/assets/lib/Lundell_CV.pdf" > pdf </a><br>
 <table width="100%">
 <tr>
-<td align="left" width="75%">
+<td align="left" width="75%" style="vertical-align:top">
    Brian is a freshman at the University of Tennessee Knoxville studying Electrical Engineering. Born and raised in Knoxville, he was indoctrinated into becoming a Vol For 
    Life. His interests include cybersecurity and semiconductor design. He works with CURENT and the IEEE student chapter to further his interests outside of class.
 </td>

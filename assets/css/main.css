@@ -98,7 +98,9 @@ footer {
 
 
 /* Image */
-
+#researchers {
+    text-align: left;
+}
 .image {
     display: inline-block;
 }

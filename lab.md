@@ -9,7 +9,7 @@ title: Research Group
 <hr>
 
 <div class="row">
-  <div class="col-lg-3">
+  <div class="col-lg-2">
     <img src="assets/img/Xiaojing.jpg" alt="Xiaojing Xu's portrait">
   </div>
   <div class="col-lg-6">

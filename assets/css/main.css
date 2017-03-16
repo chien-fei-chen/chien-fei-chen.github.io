@@ -116,6 +116,11 @@ div.img {
     }
 }
 
+@media(min-width:1000px) {
+    .container {
+        max-width: 75%;
+    }
+}
 /* Header */
 
 #header {

@@ -8,11 +8,11 @@ title: Research Group
 ## Post-Doctoral Researcher ##
 <hr>
 
-<div class="row researchers">
+<div class="row">
   <div class="col-lg-3">
     <img src="assets/img/Xiaojing.jpg" alt="Xiaojing Xu's portrait">
   </div>
-  <div class="col-lg-9">
+  <div class="col-lg-6">
     <h3>Xiaojing Xu, Ph.D.</h3>
     <p> Xiaojing is a social psychologist by training, and is committed to promoting better decision-making for individuals, organizations, and societies. 
     Her specialties include survey and experiment design, data analytics, statistical modeling and estimation, etc. 

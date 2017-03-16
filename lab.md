@@ -82,7 +82,7 @@ title: Research Group
 <i class="fa fa-file-text fa-fw"></i> Curriculum Vitae, <a href= "/assets/lib/Islam_CV.pdf" > pdf </a><br>
 <table width="100%">
 <tr>
-<td align="left" width="75%" style="postion:fixed;top:0;">
+<td align="left" width="75%" style="vertical-align:top">
     Faiza is a sophomore studying Industrial Engineering at The University of Tennessee. She is from Knoxville, TN and is so glad that she chose to attend UT. 
     She is involved with the Society of Women Engineers and CURENT. Currently, she is working with Dr. Chen and helping her with her research. Faiza's interests 
     include health and fitness and outdoor activities.

@@ -70,10 +70,10 @@ title: Research Group
 
 <table width="100%">
 <tr>
+<td align="left" width="75%" style="vertical-align:top">
 <h3>Taylor Woodward</h3>
 <i class="fa fa-file-text fa-fw"></i> Curriculum Vitae, <a href= "/assets/lib/Woodward_CV.pdf" > pdf </a><br>
 <br />
-<td align="left" width="75%" style="vertical-align:top">
     Taylor is a current Junior at The University of Tennessee studying Industrial and Systems Engineering. She has been involved with CURENT since
      2015 working as both a student ambassador and undergraduate research assistant. Her research focuses on connecting social aspects and human factors to the 
      technology of smart home energy management systems and demand response programs. Other interests include traveling, psychology, and promoting women involvement 

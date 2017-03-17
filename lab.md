@@ -20,7 +20,7 @@ title: Research Group
     She is a keen learner of new knowledge and skills and a firm believer in interdisciplinary collaboration. She has been involved in multiple projects 
     across psychology, communication, business, and electrical engineering. 
 </td>
-<td align="right" width="25%">
+<td align="right" width="25%" style="vertical-align:top">
     <img src="assets/img/Xiaojing.jpg" alt="Xiaojing Xu's portrait"> <!--style="width:150px;height:180px;">     -->
 </td>
 </tr>
@@ -42,7 +42,7 @@ title: Research Group
     surrounded by unfamiliar and culturally diverse areas. Upon graduation, She plans on working for the Americorps and then continuing her education towards 
     a PhD in Environmental Psychology.
 </td>
-<td align="right" width="25%">
+<td align="right" width="25%" style="vertical-align:top">
     <img src="assets/img/Alyssa.jpg" alt="Alyssa Loveday's portrait"><!-- style="width:140px;height:154px;">     -->
 </td>
 </tr>
@@ -61,7 +61,7 @@ title: Research Group
     Conflict and researches the roots of political conflict on the Gaza Strip. Jacqueline is pre-law and hopes to study international relations in Law School, 
     and she is also interested in pursuing her PhD in psychology. She started working for CURENT in the January of 2016.
 </td>
-<td align="right" width="25%">
+<td align="right" width="25%" style="vertical-align:top">
     <img src="assets/img/Jacqueline.JPG" alt="Jacqueline Adam's portrait"><!-- style="width:140px;height:171px;">     -->
 </td>
 </tr>
@@ -79,7 +79,7 @@ title: Research Group
      technology of smart home energy management systems and demand response programs. Other interests include traveling, psychology, and promoting women involvement 
      in STEM.
 </td>
-<td align="right" width="25%">
+<td align="right" width="25%" style="vertical-align:top">
     <img src="assets/img/Woodward.jpg" alt="Taylor Woodwards's portrait"><!-- style="width:120px;height:168px;">   -->  
 </td>
 </tr>
@@ -96,7 +96,7 @@ title: Research Group
     She is involved with the Society of Women Engineers and CURENT. Currently, she is working with Dr. Chen and helping her with her research. Faiza's interests 
     include health and fitness and outdoor activities.
 </td>
-<td align="right" width="25%">
+<td align="right" width="25%" style="vertical-align:top">
     <img src="assets/img/Islam.PNG" alt="Faiza Islam's portrait"><!-- style="width:120px;height:191px;">     -->
 </td>
 </tr>
@@ -113,7 +113,7 @@ title: Research Group
    and the Engineering Honors program. He is from Nashville Tennessee, and his interests include practicing instruments and outdoor activities such as hiking. He also 
    takes part in UTK’s IEEE Robotics team and ASME robotic and drone design team since his goal is a career in robotics. 
 </td>
-<td align="right" width="25%">
+<td align="right" width="25%" style="vertical-align:top">
     <img src="assets/img/Roy.jpg" alt="Roy Tan's portrait"><!-- style="width:140px;height:163px;">     -->
 </td>
 </tr>
@@ -129,7 +129,7 @@ title: Research Group
    Brian is a freshman at the University of Tennessee Knoxville studying Electrical Engineering. Born and raised in Knoxville, he was indoctrinated into becoming a Vol For 
    Life. His interests include cybersecurity and semiconductor design. He works with CURENT and the IEEE student chapter to further his interests outside of class.
 </td>
-<td align="right" width="25%">
+<td align="right" width="25%" style="vertical-align:top">
     <img src="assets/img/Lundell.JPG" alt="Brian Lundell's portrait"><!-- style="width:140px;height:164px;">    --> 
 </td>
 </tr>

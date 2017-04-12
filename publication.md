@@ -5,7 +5,11 @@ title: Publications
 # Journal Publications #
 <hr>
 
-1. Chen, C.-F.,  Xu, X.,  & Day, J. (2017). Comfort needs or money saving?: Exploring determinants of low-income households’ intention to conserve energy. *Energy Research and Social Science*. [http://dx.doi.org/10.1016/j.erss.2017.01.009](http://dx.doi.org/10.1016/j.erss.2017.01.009)
+1. Cooksey, C., Brandi Upton, B., & Chen, C-F. (2017, In print). Incorporating energy-efficient technologies throughout the life cycle of buildings:  Strategies for overcoming barriers. *Energy Research and Social Science*.
+
+1. Xu, X., Maki, A., Chen, C.-F. Dong, B., & Day, J. (2017, In print). Investigating willingness to save energy and communication about energy use in the American workplace with the attitude-behavior-context model. *Energy Research and Social Science*. [http://dx.doi.org/10.1016/j.erss.2017.02.011](http://dx.doi.org/10.1016/j.erss.2017.02.011). 
+
+1. Chen, C.-F.,  Xu, X.,  & Day, J. (2017). Thermal comfort or money saving?: Exploring intentions to conserve energy among low-income households in the United States. *Energy Research and Social Science*. [http://dx.doi.org/10.1016/j.erss.2017.01.009](http://dx.doi.org/10.1016/j.erss.2017.01.009)
 
 2.  Chen, C.-F.,  Xu, X., & Arpan, L. (2017). Between the technology acceptance model and sustainable energy technology acceptance model: Investigating smart meter acceptance in the United States. *Energy Research and Social Science*, 25, 93-104. [http://dx.doi.org/10.1016/j.erss.2016.12.011](http://dx.doi.org/10.1016/j.erss.2016.12.011)
 

@@ -21,7 +21,7 @@ title: Research Group
     across psychology, communication, business, and electrical engineering. 
 </td>
 <td align="right" width="25%" style="vertical-align:top">
-    <img src="assets/img/Xiaojing.jpg" alt="Xiaojing Xu's portrait"> <!--style="width:150px;height:180px;">     -->
+    <img src="assets/img/Xiaojing.jpg" alt="Xiaojing Xu's portrait"> 
 </td>
 </tr>
 </table>
@@ -62,7 +62,7 @@ title: Research Group
     and she is also interested in pursuing her PhD in psychology. She started working for CURENT in the January of 2016.
 </td>
 <td align="right" width="25%" style="vertical-align:top">
-    <img src="assets/img/Jacqueline.JPG" alt="Jacqueline Adam's portrait"><!-- style="width:140px;height:171px;">     -->
+    <img src="assets/img/Jacqueline.JPG" alt="Jacqueline Adam's portrait">
 </td>
 </tr>
 </table>
@@ -80,7 +80,7 @@ title: Research Group
      in STEM.
 </td>
 <td align="right" width="25%" style="vertical-align:top">
-    <img src="assets/img/Woodward.jpg" alt="Taylor Woodwards's portrait"><!-- style="width:120px;height:168px;">   -->  
+    <img src="assets/img/Woodward.jpg" alt="Taylor Woodwards's portrait">
 </td>
 </tr>
 </table>
@@ -97,7 +97,7 @@ title: Research Group
     include health and fitness and outdoor activities.
 </td>
 <td align="right" width="25%" style="vertical-align:top">
-    <img src="assets/img/Islam.PNG" alt="Faiza Islam's portrait"><!-- style="width:120px;height:191px;">     -->
+    <img src="assets/img/Islam.PNG" alt="Faiza Islam's portrait">
 </td>
 </tr>
 </table>
@@ -114,7 +114,7 @@ title: Research Group
    takes part in UTK’s IEEE Robotics team and ASME robotic and drone design team since his goal is a career in robotics. 
 </td>
 <td align="right" width="25%" style="vertical-align:top">
-    <img src="assets/img/Roy.jpg" alt="Roy Tan's portrait"><!-- style="width:140px;height:163px;">     -->
+    <img src="assets/img/Roy.jpg" alt="Roy Tan's portrait">
 </td>
 </tr>
 </table>
@@ -130,7 +130,7 @@ title: Research Group
    Life. His interests include cybersecurity and semiconductor design. He works with CURENT and the IEEE student chapter to further his interests outside of class.
 </td>
 <td align="right" width="25%" style="vertical-align:top">
-    <img src="assets/img/Lundell.JPG" alt="Brian Lundell's portrait"><!-- style="width:140px;height:164px;">    --> 
+    <img src="assets/img/Lundell.JPG" alt="Brian Lundell's portrait">
 </td>
 </tr>
 </table>

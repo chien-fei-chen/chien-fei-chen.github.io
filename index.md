@@ -22,7 +22,7 @@ title: Home
     <i class="fa fa-file-text fa-fw"></i> Curriculum Vitae, <a href= "/assets/lib/Chien-fei_Chen_CV.pdf" > pdf </a><br>
 </td>
 <td align="right" width="25%">
-    <img src="assets/img/Chien-fei-Chen.png" alt="Chien-fei's portrait"><!-- style="width:150px;height:214px;">   -->  
+    <img src="assets/img/Chien-fei-Chen.png" alt="Chien-fei's portrait">
 </td>
 </tr>
 </table>

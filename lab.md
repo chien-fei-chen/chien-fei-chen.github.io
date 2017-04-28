@@ -135,4 +135,19 @@ title: Research Group
 </tr>
 </table>
 <br />
+
+<table width="100%">
+<tr>
+<td align="left" width="75%" style="vertical-align:top">
+<h3>Sean Indelicato</h3>
+<i class="fa fa-file-text fa-fw"></i> Curriculum Vitae, <a href= "/assets/lib/Indelicato_CV.pdf" > pdf </a><br>
+<br />
+   Sean in a freshman studying Electrical Engineering at the University of Tennessee, Knoxville. He’s from Sevierville, Tennessee and is involved with CURENT, IEEE Robotics, and represents the Tickle College of Engineering as a student ambassador. He also enjoys tennis, ultimate Frisbee, and Super Smash Bros on the Nintendo Wii.
+</td>
+<td align="right" width="25%" style="vertical-align:top">
+    <img src="assets/img/Indelicato.JPG" alt="Sean Indelicato's portrait">
+</td>
+</tr>
+</table>
+<br />
 {:.center}

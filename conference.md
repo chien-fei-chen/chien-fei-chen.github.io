@@ -5,6 +5,9 @@ title: Conferences
 # Conference Publications #
 <hr>
 
++ Chen, C-F., Arpan L., & Xu, X. (2017, April). Predicting consumer interest in electricity 	demand response programs in the United States: a social-psychological approach. *The International Conference on Energy Research & Social Science*, Melia Sitges, Spain.
+
+
 +  Chen, C.-F.,  Xu, X.., Arpan, L. & Loveday, A.  (2017, August). Fuel Poverty: The Role of Social-Psychological Factors Affecting Low-income Households’ Acceptance to Demand Response. The Annual Meeting of *American Sociological Association (ASA)*, Montreal, Canada.
 
 +  Chen, C-F., Arpan L., & Xu, X. (2017, April). Predicting consumer interest in electricity 	demand response programs in the United States: a social-psychological approach. *The International Conference on Energy Research & Social Science*, Melia Sitges, Spain.

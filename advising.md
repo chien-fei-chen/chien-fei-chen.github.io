@@ -16,7 +16,7 @@ title: Advising
   4. Yifan Jiang.  Public acceptance of communication and grid technology (2013). 
 <br/>
 
-+ Ph.D. students serving as committee member for the department of EECS, UTK 
++ M.S. and Ph.D. students serving as committee member for the department of EECS, UTK 
   1. Drew Maters (Spring 2017). Demand response, smart meter and energy behavioral analysis (Chair: Audris Mockus)
   1. Jiahui Guo. (July 2016). Data analytics and application developments based on synchrophasor ,measurements (Chair: Yilu Liu).  
   2. Jidong Chai. (June 2016). Wide-area measurement-based applications for power system monitoring and dynamic modeling (Chair: Yilu Liu). 
@@ -32,14 +32,12 @@ title: Advising
   4. Jackson Lanier (sociology): Energy behaviors, public good and occupant behaviors in commercial buildings (Fall 2015-Fall 2016). 
   2. Luke Waring (sociology): Power transmission infrastructure and environmental impact at the community level (2013).  
   1. Kayla Stover (sociology).  Survey methodology and energy saving behaviors (2012).  
-   
-  6. Alyssa Loveday (psychology) (August 2016-present): Social-psychological factors affecting smart home management system and demand response, a cross-country comparison. 
 <br/>
 
 + Undergraduate students in engineering fields serving as adviser for NSF-funded research projects: 
-  1. Sean Indelicato (electrical engineering): Incentive based demand response (Spring 2017 - present)
-  2. Roy Tan and Brian Lundell (electrical engineering): Using Twitter to analyzing energy issues (Spring 2017-present)
-  4. Faiza Islam (industry engineering): Social-psychological factors and residential demand response programs. 
+  1. Sean Indelicato (electrical engineering): Incentive based demand response (Spring 2017 - present).
+  2. Roy Tan, Brian Lundell, and James Bate (electrical engineering): Using Twitter to analyzing energy issues (Spring 2017-present).
+  4. Faiza Islam (industry engineering): Social-psychological factors and residential demand response programs (Fall 2016 - present). 
   3. Adam Foshie (electrical engineering): Data acquisition and analysis for residential probabilistic demand response modeling (May-August, 2016).
-  2. Taylor Woodward (industry engineering) and Diane Garcia (electrical engineering): Public acceptance of smart home management system (Spring 2016-Present).  
+  2. Taylor Woodward (industry engineering) and Diane Garcia (electrical engineering): Public acceptance of smart home management system (Spring 2016 - present).  
   1. Candice Patton (electrical engineering): incentives and demand response programs (Fall, 2013-Summer, 2014). 

@@ -160,7 +160,7 @@ title: Research Group
    James is a senior at the University of Tennessee, Knoxville, majoring in Statistics with a minor in Economics. He is an Eagle Scout and has loved the outdoors since he was little, so being able to work research power systems in an analytical role seemed like a natural fit. Upon graduation, he plans on traveling for a year before returning to graduate school to pursue his Masters in Statistics and an MBA. He plans on working in nonprofits as an analyst.
 </td>
 <td align="right" width="25%" style="vertical-align:top">
-    <img src="assets/img/Brannon.jpg" alt="Sean Indelicato's portrait">
+    <img src="assets/img/Brannon.jpg" alt="James Brannon's portrait">
 </td>
 </tr>
 </table>

@@ -7,6 +7,10 @@ title: Presentations
 
 **2016**
 
++ The Value of Social Psychology for Improving Building Modeling. Presented for NSF RCN-SEES: Predictive Modeling Network for Sustainable Human-Building Ecosystems (SHBE). Workshop Theme IV: Enhancing Interdisciplinary Education and Diversity in Education, Washington D.C. (September 20th-October 1st) 
+
++ An International Occupant Behavior Survey Effort. Presented for the 4th Experts’ Meeting in Working Phase of IEA EBC Annex 66 Meeting, Ottawa, Canada (August 3-5th). 
+
 + Social-Psychological Factors in the Interdisciplinary Research of Demand Response and Renewable Energy Technology. Presented for GEIRI North America (part of State Grid, China) (July 28th).
 
 + Beyond Technology: Why Social-Psychological Factors are Important in the Interdisciplinary Research of Energy and Technology. Presented for ACROSS Research Center, Waseda University, Japan (April 25th), Department of Electrical Engineering at National Sun Yet Sen University, (May 3rd), Taiwan, Department of Electrical Engineering at SouthEast University, China (May 13th), and NARI, Nanjing, China (May 16th).
@@ -14,6 +18,8 @@ title: Presentations
 + Exploring the Relationship between Social-psychological Factors and Residential Demand Response Programs. Presented for the Center of iNnovation and Synergy for Intelligent Home and living Technology (INSIGHT), Taiwan University (May 5th).
 
 + The Importance of Environmental Sociology and Survey Methodology to Occupant Behavior Research. Department of Building Science, Tsinghua University, China (May 18th).
+
++ Integration of Social Psychological Factors and Group Dynamic Analysis of Occupant Behavior in Buildings. Presented for the 3rd Expert Meeting in Working Phase of EBC Annex 66 Meeting, Vienna, Austria (March 31st).
 
 **2015**
 

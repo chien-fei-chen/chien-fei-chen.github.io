@@ -5,9 +5,11 @@ title: Publications
 # Journal Publications #
 <hr>
 
+1. Cui, Y., Yan, D., & Chen, C.-F. (2017, in press). Exploring the factors and motivations influencing heating behavioral patterns and future energy use intentions in the hot summer and cold winter climate zone of China. *Energy and Building*.
+
 1. Yeatts, D. E., Auden, D., Cooksey, C., & Chen, C-F. (2017, in press). A systematic review of strategies for overcoming the barriers to energy-efficient technologies in buildings.  *Energy Research and Social Science*. [http://dx.doi.org/10.1016/j.erss.2017.03.010](http://dx.doi.org/10.1016/j.erss.2017.03.010)
 
-1. Xu, X., Maki, A., Chen, C.-F. Dong, B., & Day, J. (2017, In press). Investigating willingness to save energy and communication about energy use in the American workplace with the attitude-behavior-context model. *Energy Research and Social Science*. [http://dx.doi.org/10.1016/j.erss.2017.02.011](http://dx.doi.org/10.1016/j.erss.2017.02.011). 
+1. Xu, X., Maki, A., Chen, C.-F. Dong, B., & Day, J. (2017, in press). Investigating willingness to save energy and communication about energy use in the American workplace with the attitude-behavior-context model. *Energy Research and Social Science*. [http://dx.doi.org/10.1016/j.erss.2017.02.011](http://dx.doi.org/10.1016/j.erss.2017.02.011).
 
 1. Chen, C.-F.,  Xu, X.,  & Day, J. (2017). Thermal comfort or money saving?: Exploring intentions to conserve energy among low-income households in the United States. *Energy Research and Social Science*. [http://dx.doi.org/10.1016/j.erss.2017.01.009](http://dx.doi.org/10.1016/j.erss.2017.01.009)
 

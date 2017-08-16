@@ -23,4 +23,4 @@ title: Professional Service
 
 ## **Peer Reviewer** ##
 
-*American Sociology Association, Energy Research and Social Science, Energy Efficiency, Energy and Buildings, Energy and Environment, Journal of American Sociology, National Communication Association and International Communication Association*
+*American Sociology Association, Business, Strategy and the Environment, Energy Research and Social Science, Energy Efficiency, Energy and Buildings, Energy and Environment, Journal of American Sociology, Journal of Planning Education and Research, National Communication Association and International Communication Association*

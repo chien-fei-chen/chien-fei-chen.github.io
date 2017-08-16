@@ -5,11 +5,19 @@ title: Presentations
 # Presentations #
 <hr>
 
+**2017**
+
++ Interdisciplinary Approach to Investigate Demand Response and Energy Behaviors: Integration of Social-psychology and Power Systems. Presented for Department of Electrical Engineering, Tsinghua University, China (June 5th); School of Economics and Management, North China Electric Power University (June 2nd).
+
++ Social-Psychological Analysis of Demand Response and Energy Behaviors and Smart Home Management Systems in the U.S., Presented for Department of Civil Engineering, National Taiwan University (May 8th), and Department of Electrical Engineering, Sun Yat-Sen University, Taiwan (May 11th).
+
++ Technology is not Enough: Social-Psychological Analysis of Demand Response and Energy Behaviors. Presented for School of Mechanical Engineering, Tongji University, China (May 17th); NARI School of Electrical and Automation Engineering, Nanjing Normal University, China (May 22nd); Department of Electrical Engineering, Zhejiang University, China (May 26th), and Department of Electrical Engineering at Xi’an Jiaotong University, China and Xi’an University of Technology (May 31st).
+
 **2016**
 
-+ The Value of Social Psychology for Improving Building Modeling. Presented for NSF RCN-SEES: Predictive Modeling Network for Sustainable Human-Building Ecosystems (SHBE). Workshop Theme IV: Enhancing Interdisciplinary Education and Diversity in Education, Washington D.C. (September 20th-October 1st) 
++ The Value of Social Psychology for Improving Building Modeling. Presented for NSF RCN-SEES: Predictive Modeling Network for Sustainable Human-Building Ecosystems (SHBE). Workshop Theme IV: Enhancing Interdisciplinary Education and Diversity in Education, Washington D.C. (September 20th-October 1st)
 
-+ An International Occupant Behavior Survey Effort. Presented for the 4th Experts’ Meeting in Working Phase of IEA EBC Annex 66 Meeting, Ottawa, Canada (August 3-5th). 
++ An International Occupant Behavior Survey Effort. Presented for the 4th Experts’ Meeting in Working Phase of IEA EBC Annex 66 Meeting, Ottawa, Canada (August 3-5th).
 
 + Social-Psychological Factors in the Interdisciplinary Research of Demand Response and Renewable Energy Technology. Presented for GEIRI North America (part of State Grid, China) (July 28th).
 
@@ -25,8 +33,8 @@ title: Presentations
 
 + Social Psychological Approaches to Analyze Demand Response and Promote Energy Efficiency. Keynote speaker for the joint workshop of US NSF CURENT and Japan ACROSS on Distributed Energy Management System, Waseda University, Japan  (December 10th).
 
-+ Social-psychological Analysis of Residential Energy Behaviors and Customer Segmentation. Presented to the Center of iNnovation and Synergy for Intelligent Home and living Technology (INSIGHT), Taiwan University  (July 21st). 
-	
++ Social-psychological Analysis of Residential Energy Behaviors and Customer Segmentation. Presented to the Center of iNnovation and Synergy for Intelligent Home and living Technology (INSIGHT), Taiwan University  (July 21st).
+
 + Environmental Psychology and Improving Energy Efficiency through Social-Psychological Approaches. Presented to Department of Electrical Engineering and Computer Science and School of Architecture, Tsinghua University, Beijing (July 6th); and the Department of Mechanical Engineering and Environmental Science, Nanjing Normal University (July 7th), and the Department of Electrical Engineering, SouthEast University, Nanjing, China (July 8th).  
 
 
@@ -38,15 +46,15 @@ title: Presentations
 
 + Presenter at the NSF Division of Engineering Education and Centers, Engineering Directorate, Engineering Education PI Awardees’ Meeting (September 29-30th).
 
-**2013** 
+**2013**
 
 + Social-psychological Factors Relating to the Acceptance of Smart Meter. Presented to Vanderbilt Institute for Energy & Environment, Vanderbilt University (October 30th).
 
 + Collaborative Research: Design, Analysis and Implementation of Social Interactions in Cognitive Radio Networks. Presented to the NSF Enhancing Access to the Radio Spectrum (ERAS) Program Workshop (October 6th).
 
-+ Promoting Engineering Education to Women. Presented to Federal Bureau of Investigation (FBI), Knoxville (April 3rd). 
++ Promoting Engineering Education to Women. Presented to Federal Bureau of Investigation (FBI), Knoxville (April 3rd).
 
-+ Approaches to University Education Diversity Programs. Presented to the NSF Engineering Research Center Annual Meeting (October 20th). 
++ Approaches to University Education Diversity Programs. Presented to the NSF Engineering Research Center Annual Meeting (October 20th).
 
 **2010**
 

@@ -55,11 +55,7 @@ title: Research Group
 <h3>Jacqueline Adams</h3>
 <i class="fa fa-file-text fa-fw"></i> Curriculum Vitae, <a href= "/assets/lib/Adams_CV.pdf" > pdf </a><br>
 <br />
-    Jacqueline is a senior at the University of Tennessee majoring in Psychology and minoring in Political Science in the Chancellor’s
-    Honors Program. Her research interests lie in the intersection between her major and minor. She is currently writing a senior thesis on ambivalence
-    and voting intentions of US citizens in the 2016 presidential election. Additionally, she works in the Center for the Study of Youth in Political
-    Conflict and researches the roots of political conflict on the Gaza Strip. Jacqueline is pre-law and hopes to study international relations in Law School,
-    and she is also interested in pursuing her PhD in psychology. She started working for CURENT in the January of 2016.
+    Jacqueline is a graduate of the University of Tennessee class of 2017. She has a degree in Honors Psychology and a minor in Political Science. She has been working for CURENT since January of 2016. In addition to her passion for researching the social-psychological determinants of energy saving, she is also interested in the intersection between her major and minor. She recently conducted research on ambivalence and voter behavior in the 2016 presidential election for her undergraduate honors thesis. She is currently studying to attend law school next fall.
 </td>
 <td align="right" width="25%" style="vertical-align:top">
     <img src="assets/img/Jacqueline.JPG" alt="Jacqueline Adam's portrait">

@@ -172,4 +172,19 @@ title: Research Group
 </tr>
 </table>
 <br />
+
+<table width="100%">
+<tr>
+<td align="left" width="75%" style="vertical-align:top">
+<h3>Victoria Gilooly</h3>
+<i class="fa fa-file-text fa-fw"></i> Curriculum Vitae, <a href= "/assets/lib/Victoria_CV.pdf" > pdf </a><br>
+<br />
+   Victoria is a current junior at The University of Tennessee pursuing degrees in Honors Psychology and in Sociology as a member of the Chancellor's Honors Program. She is from Memphis, Tennessee, and is excited to be at UT. She is president of the Phi Alpha Delta Pre-Law Fraternity and plans on attending law school after graduation. Her interests include anything involving good coffee or playing with dogs, preferably both.
+</td>
+<td align="right" width="25%" style="vertical-align:top">
+    <img src="assets/img/Victoria.jpg" alt="Victoria Gilooly's portrait">
+</td>
+</tr>
+</table>
+<br />
 {:.center}

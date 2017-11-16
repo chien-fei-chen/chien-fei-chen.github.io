@@ -26,6 +26,8 @@ title: Advising
 <br/>
 
 + Undergraduate students in social science fields, serving as adviser for NSF-funded research projects
+  1. Victoria Gilooly (Psychology): Social-psychological and environmental analysis during disasters and among underserved communities.
+  1. Taylor Duncan (Psychology): Social-psychological factors affecting demand response and energy behavior (August 2017-present)
   1. James Brannon (statistics): Public acceptance of smart home management system (May 2016-present)
   1. Alyssa Loveday (psychology): Social-psychological factors affecting smart home management system and demand response, a cross-country comparison (August 2016-present)
   5. Jacqueline Adams (psychology): Occupant behavior and energy saving in commercial building in multi-country context (Fall 2015-Present)
@@ -36,7 +38,9 @@ title: Advising
 <br/>
 
 + Undergraduate students in engineering fields serving as adviser for NSF-funded research projects:
+  1. Jeffery Dong (Computer Science): Integrating statistical modeling with simulation to investigate social psychological analysis of demand response behaviors (Fall 2017 - present)
   1. Sean Indelicato (electrical engineering): Incentive based demand response (Spring 2017 - present).
+  1. James Bates (Electrical Engineering): Analysis of behavioral patterns using Residential Household Energy Consumption Data and American Time Use Survey (Fall 2016 - present)
   2. Roy Tan, Brian Lundell, and James Bate (electrical engineering): Using Twitter to analyzing energy issues (Spring 2017-present).
   4. Faiza Islam (industry engineering): Social-psychological factors and residential demand response programs (Fall 2016 - present).
   3. Adam Foshie (electrical engineering): Data acquisition and analysis for residential probabilistic demand response modeling (May-August, 2016).

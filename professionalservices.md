@@ -7,7 +7,8 @@ title: Professional Service
 <hr>
 
 + NSF RCN Workshop Chair for the  “Enhancing Interdisciplinary Education and Diversity” for Predictive Modeling Network for Sustainable Human-building Ecosystems (SHBE) funded by NSF Research Coordination Network (RCN) in Science, Engineering and Education for Sustainability (SEES) program September 30th-October 1st, 2016
-+ Host summer REU STEM Symposium at UTK in 2015 and 2016
++ Department Reviewer for the Institutional Review Board (IRB) since 2015
++ Organizer of summer REU STEM Symposium at UTK in 2015 and 2016
 + Reviewer for NSF Science Technology Center Proposal Red Team at UTK in 2015
 + Steering committee and lead for Sustainability Education Program for the NSF RCN-SEES: Predictive Modeling Network for Sustainable Human-Building Ecosystems (SHBE) since 2014
 + Lead of Social-psychological Modeling Task for the International Energy Agency (IEA), Energy in Buildings and Communities (EBC) Annex 66: Definition and Simulation of Occupant Behavior in Buildings since 2014

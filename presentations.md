@@ -7,6 +7,8 @@ title: Presentations
 
 **2017**
 
++ Social-psychological Analysis of Demand Response, Energy Behaviors and Smart Home Management System. Presented for NSF-National Natural Science Foundation of China’s International Workshop on Smart Cities, Human Behavior and Sustainable Development: Opportunities and Challenges for Infrastructure Development, Beijing (September 27-30th).
+
 + Interdisciplinary Approach to Investigate Demand Response and Energy Behaviors: Integration of Social-psychology and Power Systems. Presented for Department of Electrical Engineering, Tsinghua University, China (June 5th); School of Economics and Management, North China Electric Power University (June 2nd).
 
 + Social-Psychological Analysis of Demand Response and Energy Behaviors and Smart Home Management Systems in the U.S., Presented for Department of Civil Engineering, National Taiwan University (May 8th), and Department of Electrical Engineering, Sun Yat-Sen University, Taiwan (May 11th).

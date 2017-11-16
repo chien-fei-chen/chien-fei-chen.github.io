@@ -5,6 +5,10 @@ title: Publications
 # Journal Publications #
 <hr>
 
+1. Talele, S., Traylor, C., Arpan, L., Curely, D., Chen, C.-F., et al, (in press). Energy modeling and data structure framework for sustainable human-building ecosystems (SHBE): A review. *Frontiers in Energy*.
+
+1. D’Oca, S., Chen, C.-F., Hong, T., & Belafi, Z. (2017). Synthesizing building physics with social psychology: An interdisciplinary framework for context and occupant behavior in office buildings. *Energy Research and Social Science*, 34, 240-251.
+
 1. Cui, Y., Yan, D., & Chen, C.-F. (2017, in press). Exploring the factors and motivations influencing heating behavioral patterns and future energy use intentions in the hot summer and cold winter climate zone of China. *Energy and Building*.
 
 1. Yeatts, D. E., Auden, D., Cooksey, C., & Chen, C-F. (2017, in press). A systematic review of strategies for overcoming the barriers to energy-efficient technologies in buildings.  *Energy Research and Social Science*. [http://dx.doi.org/10.1016/j.erss.2017.03.010](http://dx.doi.org/10.1016/j.erss.2017.03.010)

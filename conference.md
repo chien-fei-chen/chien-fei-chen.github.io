@@ -5,7 +5,11 @@ title: Conferences
 # Conference Publications #
 <hr>
 
-+ Chen, C. F. & Xu, X. (2017, July 26-27). Do poor people think differently from rich people? Investigating public acceptance of electricity demand response behaviors across income levels in the United States. *NSF RCN: Energy Impacts Symposium for Fostering Cross- disciplinary Research on Energy Development*, Columbus, Ohio.
+ Chen, C. F. (2017, December). The social-psychological factors affecting willingness to adopt smart meters and smart home energy management system in the United States. *World Congress on Sustainable Technologies* (WCST), University of Cambridge, UK.
+
++ Chen, C. F. (2017, December). Promoting voluntary peak demand response behaviors in the United States: A special examination across income groups,” *World Congress on Sustainable Technologies*(WCST), University of Cambridge, UK.
+
++ Chen, C. F. & Xu, X. (2017, July). Do poor people think differently from rich people? Investigating public acceptance of electricity demand response behaviors across income levels in the United States. *NSF RCN: Energy Impacts Symposium for Fostering Cross- disciplinary Research on Energy Development*, Columbus, Ohio.
 
 + Chen, C.-F. (2017, June). An Interdisciplinary Framework and Survey for Investigating Cross-country Occupant Behavior in Buildings: Social-psychological Analysis of Demand Response and Smart Home Management Systems *The Annual American Society of Heating and Air-Conditioning Engineers (ASHRAE)* Summer Conference, Long Beach, CA.
 

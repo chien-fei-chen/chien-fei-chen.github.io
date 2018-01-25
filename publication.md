@@ -5,7 +5,12 @@ title: Publications
 # Journal Publications #
 <hr>
 
-1. Talele, S., Traylor, C., Arpan, L., Curely, D., Chen, C.-F., et al, (in press). Energy modeling and data structure framework for sustainable human-building ecosystems (SHBE): A review. *Frontiers in Energy*.
+1. Xu, X., Chen, C.F., Zhu, X., & Hu, Q. (in press). Promoting acceptance of direct load control programs in the United States: Financial incentive versus control option. *Energy*.
+
+
+1. Asadinejad, A., Varzaneh, M.G., Tomsovic, K., Chen, C.-F., and Sawhney, R. (in press). Evaluation of residential customer elasticity for incentive based demand response programs. *Electric Power Systems Research*.
+
+1. Talele, S., Traylor, C., Arpan, L., Curely, D., Chen, C.-F., et al, (2018). Energy modeling and data structure framework for sustainable human-building ecosystems (SHBE): A review. *Frontiers in Energy*.
 
 1. D’Oca, S., Chen, C.-F., Hong, T., & Belafi, Z. (2017). Synthesizing building physics with social psychology: An interdisciplinary framework for context and occupant behavior in office buildings. *Energy Research and Social Science*, 34, 240-251.
 

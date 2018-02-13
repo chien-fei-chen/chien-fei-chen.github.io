@@ -33,21 +33,6 @@ title: Research Group
 <table width="100%">
 <tr>
 <td align="left" width="75%" style="vertical-align:top">
-<h3>Alyssa Loveday</h3>
-<i class="fa fa-file-text fa-fw"></i> Curriculum Vitae, <a href= "/assets/lib/Loveday_Resume.pdf" > pdf </a><br>
-<br />
-    Alyssa is a recent graduate of The University of Tennessee, Knoxville where she received her Bachelor's in Psychology and Sustainability. Since a young age, she has always found enjoyment in being outside and learning more about human cognition, so she is thankful for the opportunity to apply her two passions towards an academic education. She has traveled outside of the country numerous times and finds true excitement in being surrounded by unfamiliar and culturally diverse areas. Following graduation, she accepted an AmeriCorps VISTA Position, serving as a Recruitment and Outreach Associate for Texas Conservation Corps based in Austin, Texas before continuing her education towards a Master's degree in Environmental Resource Management.
-</td>
-<td align="right" width="25%" style="vertical-align:top">
-    <img src="assets/img/Alyssa.jpg" alt="Alyssa Loveday's portrait"><!-- style="width:140px;height:154px;">     -->
-</td>
-</tr>
-</table>
-<br />
-
-<table width="100%">
-<tr>
-<td align="left" width="75%" style="vertical-align:top">
 <h3>Jacqueline Adams</h3>
 <i class="fa fa-file-text fa-fw"></i> Curriculum Vitae, <a href= "/assets/lib/Adams_CV.pdf" > pdf </a><br>
 <br />
@@ -55,24 +40,6 @@ title: Research Group
 </td>
 <td align="right" width="25%" style="vertical-align:top">
     <img src="assets/img/Jacqueline.JPG" alt="Jacqueline Adam's portrait">
-</td>
-</tr>
-</table>
-<br />
-
-<table width="100%">
-<tr>
-<td align="left" width="75%" style="vertical-align:top">
-<h3>Taylor Woodward</h3>
-<i class="fa fa-file-text fa-fw"></i> Curriculum Vitae, <a href= "/assets/lib/Woodward_CV.pdf" > pdf </a><br>
-<br />
-    Taylor is a current Junior at The University of Tennessee studying Industrial and Systems Engineering. She has been involved with CURENT since
-     2015 working as both a student ambassador and undergraduate research assistant. Her research focuses on connecting social aspects and human factors to the
-     technology of smart home energy management systems and demand response programs. Other interests include traveling, psychology, and promoting women involvement
-     in STEM.
-</td>
-<td align="right" width="25%" style="vertical-align:top">
-    <img src="assets/img/Woodward.jpg" alt="Taylor Woodwards's portrait">
 </td>
 </tr>
 </table>
@@ -123,21 +90,6 @@ title: Research Group
 </td>
 <td align="right" width="25%" style="vertical-align:top">
     <img src="assets/img/Lundell.JPG" alt="Brian Lundell's portrait">
-</td>
-</tr>
-</table>
-<br />
-
-<table width="100%">
-<tr>
-<td align="left" width="75%" style="vertical-align:top">
-<h3>Sean Indelicato</h3>
-<i class="fa fa-file-text fa-fw"></i> Curriculum Vitae, <a href= "/assets/lib/Indelicato_CV.pdf" > pdf </a><br>
-<br />
-   Sean in a freshman studying Electrical Engineering at the University of Tennessee, Knoxville. He’s from Sevierville, Tennessee and is involved with CURENT, IEEE Robotics, and represents the Tickle College of Engineering as a student ambassador. He also enjoys tennis, ultimate Frisbee, and Super Smash Bros on the Nintendo Wii.
-</td>
-<td align="right" width="25%" style="vertical-align:top">
-    <img src="assets/img/Indelicato.jpg" alt="Sean Indelicato's portrait">
 </td>
 </tr>
 </table>
